@@ -8,6 +8,7 @@ Features:
 
 Thanks to:
 
+* Wargoth - Android port of Harmony
 * Michael Crombeen - translation to French
 * Scott - translation to Korean
 * Piyush Mor - translation to Hindi
